@@ -1,4 +1,3 @@
-# springboot_atomikos
 atomikos 两个数据源分布式事务管理示例
 
 两个数据库
